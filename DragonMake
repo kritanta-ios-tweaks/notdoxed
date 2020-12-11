@@ -1,0 +1,12 @@
+---
+name: NotDoxed
+id: me.krit.notdoxed
+icmd: killall WeatherWidget; killall Preferences;
+author: krit
+version: 1.0
+depends: mobilesubstrate
+
+NotDoxed:
+  type: tweak
+  files:
+    - Tweak.xm
