@@ -30,7 +30,7 @@
 - (UILabel *)textLabel
 {
     UILabel *o = %orig;
-    [o setText:@"    "];
+    [o setText:@"Name"];
     return o;
 }
 %end
